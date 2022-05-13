@@ -8,7 +8,7 @@ Dit project draait om het maken van een applicatie voor één persoon. Deze pers
 - [De tweede test](#De-tweede-test)
 - [De derde test](#De-derde-test)
 - [User Scenario](#User-Scenario)
-- [Wat het moet worden](#Wat-het-moet-worden-🚀)
+- [Wat het moet worden](#Wat-het-moet-worden)
 - [Mijn concept tegen velle licht van de exclusive design principles](#Mijn-concept-tegen-velle-licht-van-de-exclusive-design-principles)
 
 ## Probleem en case 💼
@@ -75,7 +75,7 @@ De derde test was echt nog broodnodig. Er zijn nog een aantal aanpassingen nodig
 ## User Scenario
 Eric is een gehandicapte man van middelbare leeftijd. Hij werkt voor de gemeente van Amsterdam als expert op het gebied van toegankelijkheid voor mensen in een rolstoel, in de gebouwen in Amsterdam. Zelf zit hij ook in een rolstoel en fijne motorische handelingen kosten hem een stuk meer moeite. Voor zijn werk moet hij ook aardig wat administratieve handelingen verrichten. Hiervoor maakt hij gebruik van programma's als Word, Excel en zijn mail. Omdat handelingen als kopiëren-plakken Eric meer moeite kost, wilt hij graag met spraak deze handelingen op zijn computer kunnen uitvoeren. Eric wilt graag de handelingen die hem de meeste moeite kosten met spraak kunnen doen. In mijn concept kan Eric met zijn stem tekst kopiëren en plakken, navigeren tussen de applicaties die hij gebruikt voor werk en teksten dicteren. Ook is het selecteren van tekst robuuster gemaakt door middel van een selectie-modus. 
 
-## Wat het moet worden 🚀
+## Wat het moet worden
 Na de 3 tests heb ik een vrij goed beeld gekregen van wat Eric wilt. Eric wilt namelijk gewoon makkelijk kunnen kopiëren-plakken tussen de applicaties die hij vaak gebruikt. Daarom presenteer ik hier mijn concept. 
 
 1. De zero state
