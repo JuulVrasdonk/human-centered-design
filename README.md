@@ -7,6 +7,9 @@ Dit project draait om het maken van een applicatie voor één persoon. Deze pers
 - [De eerste test](#De-eerste-test)
 - [De tweede test](#De-tweede-test)
 - [De derde test](#De-derde-test)
+- [User Scenario](#User-Scenario)
+- [Wat het moet worden](#Wat-het-moet-worden)
+- [Mijn concept tegen velle licht van de exclusive design principles](#Mijn-concept-tegen-velle-licht-van-de-exclusive-design-principles)
 
 ## Probleem en case 💼
 Eric wilt graag makkelijker kunnen kopieren en plakken tussen verschillende applicaties op zijn laptop. Omdat Eric geen beschikking heeft over de fijne motoriek zijn grote muisbewegingen lastig voor hem. Ook is kopieren en plakken erg omslachtig. En omdat Eric veel administratieve taken moet doen voor de gemeente Amsterdam, mag dit allemaal wel iets makkelijker. Vandaar de case: * Eric wil graag met zijn stem basishandelingen kunnen uitvoeren binnen documenten, zoals copy/paste. Hier is het de taak om uit te zoeken welke handelingen hij nog meer vaak gebruikt, en hoe je die op een voor Eric zo prettig mogelijke manier kunt laten werken.*
